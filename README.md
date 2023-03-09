@@ -1,4 +1,16 @@
-### Hi there 👋
+# ✨ hi, i'm joey.
+
+
+hip-hop music and typography enjoyer
+
+formerly @ aws, currently looking for something new
+
+find me at [joeyquismor.io](joeyquismor.io)
+
+## 🔭 currently working on...
+- [KANM](kanm.org) rebrand and website redesign
+- bitjockey stuff
+- my own brand
 
 <!--
 **josephquismorio/josephquismorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
