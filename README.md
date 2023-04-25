@@ -8,7 +8,7 @@ formerly @ aws, currently looking for something new
 find me at [joeyquismor.io](https://joeyquismor.io)
 
 ## 🔭 currently working on...
-- [KANM](https://kanm.org) rebrand and website redesign
+- [KANM](https://kanm.org/#/) rebrand and website redesign
 - bitjockey stuff
 - my own brand
 
