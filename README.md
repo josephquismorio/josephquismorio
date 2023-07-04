@@ -8,9 +8,8 @@ formerly @ aws, currently looking for something new
 find me at [joeyquismor.io](https://joeyquismor.io)
 
 ## 🔭 currently working on...
-- [KANM](https://kanm.org/#/) rebrand and website redesign
-- bitjockey stuff
-- my own brand
+- [KANM](https://kanm.org/#/) rebranding
+- bitjockey nonsense (full stack dip)
 
 <!--
 **josephquismorio/josephquismorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
