@@ -3,7 +3,7 @@
 
 hip-hop music and typography enjoyer
 
-formerly @ aws, currently looking for something new
+formerly @ [aws](https://aws.amazon.com), currently @ [gsk](https://www.gsk.com/en-gb/)
 
 find me at [joeyquismor.io](https://joeyquismor.io)
 
