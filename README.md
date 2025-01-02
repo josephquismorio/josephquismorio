@@ -1,15 +1,11 @@
-# ✨ hi, i'm joey.
+# Hi, I'm Joey.
 
 
-hip-hop music and typography enjoyer
+Hip-hop music and typography enjoyer
 
-formerly @ [aws](https://aws.amazon.com), currently @ [gsk](https://www.gsk.com/en-gb/)
+Formerly @ [AWS](https://aws.amazon.com), currently @ [GSK](https://www.gsk.com/en-gb/)
 
-find me at [joeyquismor.io](https://joeyquismor.io)
-
-## 🔭 currently working on...
-- [KANM](https://kanm.org/#/) rebranding
-- bitjockey nonsense (full stack dip)
+Find me at [joeyquismor.io](https://joeyquismor.io)
 
 <!--
 **josephquismorio/josephquismorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
