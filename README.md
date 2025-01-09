@@ -1,4 +1,4 @@
-# Hi, I'm Joey.
+# Hi, I'm Joey
 
 
 Hip-hop music and typography enjoyer
